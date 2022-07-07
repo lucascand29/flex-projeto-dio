@@ -1,2 +1,2 @@
 # flex-projeto-dio
-Projeto de CSS3 Flexbox
+Projeto realizado no curso Posicionando elementos com Flexbox em CCS 
